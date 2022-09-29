@@ -1,4 +1,4 @@
-혼자 다시 작성해본 
+혼자 다시 작성해본 코드
 ```java
 public class NewChicken {
     //choiceNum은 불변 -> 클래스변수 num에 할당
